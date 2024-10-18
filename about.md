@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-This is an example page!
+I’m Samuel Onoja, a passionate software engineer focused on distributed systems. Currently, I’m working as a Rust developer at Komodo Platform, contributing to decentralized solutions and blockchain technologies. I also love contributing to Rust open-source projects and collaborating with the community to drive innovation.
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+Check out my [GitHub profile](https://github.com/borngraced) to explore my projects and contributions! the only difference that the publish date is not shown!
