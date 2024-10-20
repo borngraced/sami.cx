@@ -2,15 +2,14 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Hello there, 
     entries:
-      - title: focused on ds sys stufss! and open-source contributions.
       - title: about 
         url:  /about
       - title: github
         url: https://github.com/borngraced
       - title: email
-        url: https://mailto:0@sami.cx
+        url: mailto:0@sami.cx
 
   - title: all posts
     post_list:
